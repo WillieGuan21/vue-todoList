@@ -1,4 +1,4 @@
-# vue-0923
+# vue-tutorials todoList
 
 ## Project setup
 ```
